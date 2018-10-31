@@ -1,7 +1,10 @@
-Initialisatie van Tentamen Repository Bi5a-T_1819
-# Naam Student:
-## Studentnummer:
-## Klas:
+﻿Initialisatie van Tentamen Repository Bi5a-T_1819
+# Naam Student: Anne Manders
+## Studentnummer: 605370
+## Klas: Bin 2b
+
+# Heb de opdracht zelf niet kunnen vinden, maar als de test was oefenen met 
+# pullen en pushen van en naar GIT, dan is het gelukt! 
 
 ## Beoordeling Student
 | Onderdeel  | Max Score | Student | Docent |
